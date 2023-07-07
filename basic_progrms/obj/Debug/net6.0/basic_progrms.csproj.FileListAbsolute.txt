@@ -1,0 +1,15 @@
+D:\c#\programs\basic_progrms\basic_progrms\bin\Debug\net6.0\basic_progrms.exe
+D:\c#\programs\basic_progrms\basic_progrms\bin\Debug\net6.0\basic_progrms.deps.json
+D:\c#\programs\basic_progrms\basic_progrms\bin\Debug\net6.0\basic_progrms.runtimeconfig.json
+D:\c#\programs\basic_progrms\basic_progrms\bin\Debug\net6.0\basic_progrms.dll
+D:\c#\programs\basic_progrms\basic_progrms\bin\Debug\net6.0\basic_progrms.pdb
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.csproj.AssemblyReference.cache
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.AssemblyInfoInputs.cache
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.AssemblyInfo.cs
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.csproj.CoreCompileInputs.cache
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.dll
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\refint\basic_progrms.dll
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.pdb
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\basic_progrms.genruntimeconfig.cache
+D:\c#\programs\basic_progrms\basic_progrms\obj\Debug\net6.0\ref\basic_progrms.dll
