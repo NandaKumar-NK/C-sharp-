@@ -1,0 +1,15 @@
+D:\c#\programs\GeneratePattern\GeneratePattern\bin\Debug\net7.0\GeneratePattern.exe
+D:\c#\programs\GeneratePattern\GeneratePattern\bin\Debug\net7.0\GeneratePattern.deps.json
+D:\c#\programs\GeneratePattern\GeneratePattern\bin\Debug\net7.0\GeneratePattern.runtimeconfig.json
+D:\c#\programs\GeneratePattern\GeneratePattern\bin\Debug\net7.0\GeneratePattern.dll
+D:\c#\programs\GeneratePattern\GeneratePattern\bin\Debug\net7.0\GeneratePattern.pdb
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.csproj.AssemblyReference.cache
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.AssemblyInfoInputs.cache
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.AssemblyInfo.cs
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.csproj.CoreCompileInputs.cache
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.dll
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\refint\GeneratePattern.dll
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.pdb
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\GeneratePattern.genruntimeconfig.cache
+D:\c#\programs\GeneratePattern\GeneratePattern\obj\Debug\net7.0\ref\GeneratePattern.dll
